@@ -5,7 +5,7 @@ import { useCallback, useEffect, useState } from "react";
 
 const API_URL =
   process.env.NEXT_PUBLIC_API_URL ??
-  "https://sms-spam-api-uoqthydjdq-et.a.run.app";
+  "https://sms-spam-api-646381987270.asia-southeast2.run.app";
 
 interface PredictResult {
   prediction: number;

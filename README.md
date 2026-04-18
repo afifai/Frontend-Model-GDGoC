@@ -36,7 +36,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 | Variable | Default | Description |
 |---|---|---|
-| `NEXT_PUBLIC_API_URL` | `https://sms-spam-api-uoqthydjdq-et.a.run.app` | Backend API base URL |
+| `NEXT_PUBLIC_API_URL` | `https://sms-spam-api-646381987270.asia-southeast2.run.app` | Backend API base URL |
 
 ## Deploy to Vercel
 
